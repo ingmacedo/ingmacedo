@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff3ca3&height=120&section=header"/>
+
 # 🌸 Olá, mundo! 🌸
 <h1>Eu sou a <a href="https://github.com/ingmacedo">Ingrid</a> </h1>
 </h1>
@@ -23,6 +25,15 @@
 
 💡 Sempre em busca de novos desafios e conhecimentos
 
+### 🔍 Estou estudando...
+<div>
+ <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+ <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+ <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
+ <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+ <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+</div>
+  
 ## Vamos Conectar!
 📫 Sinta-se à vontade para me enviar uma mensagem ou seguir nas redes sociais.
 
