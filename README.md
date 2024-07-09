@@ -5,7 +5,4 @@
 - 📫 conta-me em ingridmacedo13@outlook.com
 - 🎂 21 anos
   
-- ![ingmacedo GitHub stats](https://github-readme-stats.vercel.app/api?username=ingmacedo&show_icons=true&theme=jolly)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingmacedo&show_icons=true&theme=jolly)](https://github.com/ingamacedo/github-readme-stats)
-
--->
+![ingmacedo GitHub stats](https://github-readme-stats.vercel.app/api?username=ingmacedo&show_icons=true&theme=jolly)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingmacedo&show_icons=true&theme=jolly)](https://github.com/ingamacedo/github-readme-stats)
