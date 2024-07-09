@@ -19,7 +19,7 @@
 🌟 Apaixonada por aprender e crescer no mundo da tecnologia
 
 ## Meus Interesses
-📚 Atualmente estudando:
+📚 Atualmente focada em estudar:
 - **Python**
 - **Power BI**
 
@@ -46,6 +46,8 @@
 
 ##
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff3ca3&height=120&section=footer"/>
 
 
           
